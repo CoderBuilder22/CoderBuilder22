@@ -8,7 +8,7 @@ I love code!
 
 * 🌍  I'm based in Rades , Tunisie
 * ✉️  You can contact me at [ahmednasrism@gmail.com](mailto:ahmednasrism@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on web developpement projects
 
 ### Skills
